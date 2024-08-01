@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Wecome ad1.jpeg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -10,18 +10,23 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Contact me",
+                "url": "/info",
+                "altText": "contact-me"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "My Portfolio",
+                "url": "/projects",
+                "altText": "my-portfolio"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "What my Customer Think",
+                "url": "/blog",
+                "showIcon": true,
+                "icon": "arrowLeft",
+                "altText": "what-customers-think"
             }
         ],
         "socialLinks": [
@@ -88,7 +93,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
