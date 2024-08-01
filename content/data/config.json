@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "Contact me",
-                "url": "/info"
+                "url": "/info",
+                "altText": "contact-me"
             },
             {
                 "type": "Link",
