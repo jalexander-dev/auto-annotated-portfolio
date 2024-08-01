@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Bryain's House of Many Colors
     subtitle: >-
       Interior Wall PaintingOur-Services-Exterior-Wall-PaintingExterior Wall
       PaintingOur-Services-Waterproofing-ServicesWaterproofing
