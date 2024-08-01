@@ -5,9 +5,8 @@ colors: colors-a
 date: '2023-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  It’s hard to imagine that I’ve that I painted all these things by myself,
+  probably because I work hard and I look at every detail. :)
 featuredImage:
   type: ImageBlock
   url: /images/5.png
