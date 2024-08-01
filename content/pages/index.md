@@ -19,7 +19,7 @@ sections:
       PaintingOur-Services-Waterproofing-ServicesWaterproofing
       ServicesOur-Services-Wood-SolutionsWood
       Solutionsdesktopsps-missed-call-componentTo paint your home, please give
-      us a call at To paint your home, please give us a call at 1800-266-2090
+      us a call at To paint your home, please give us a call at 1-919-200-2452
     styles:
       self:
         height: auto
