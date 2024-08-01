@@ -42,6 +42,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      Interior Wall PaintingOur-Services-Exterior-Wall-PaintingExterior Wall
+      PaintingOur-Services-Waterproofing-ServicesWaterproofing
+      ServicesOur-Services-Wood-SolutionsWood
+      Solutionsdesktopsps-missed-call-componentTo paint your home, please give
+      us a call at To paint your home, please give us a call at 1-919-200-2452
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
