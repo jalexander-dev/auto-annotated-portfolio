@@ -16,7 +16,8 @@
             {
                 "type": "Link",
                 "label": "My Portfolio",
-                "url": "/projects"
+                "url": "/projects",
+                "altText": "my-portfolio"
             },
             {
                 "type": "Link",
