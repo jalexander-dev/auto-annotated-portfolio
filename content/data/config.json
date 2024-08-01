@@ -23,7 +23,8 @@
                 "label": "What my Customer Think",
                 "url": "/blog",
                 "showIcon": true,
-                "icon": "arrowLeft"
+                "icon": "arrowLeft",
+                "altText": "what-customers-think"
             }
         ],
         "socialLinks": [
