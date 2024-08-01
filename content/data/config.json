@@ -23,7 +23,7 @@
                 "label": "What my Customer Think",
                 "url": "/blog",
                 "showIcon": true,
-                "icon": "apple"
+                "icon": "arrowLeft"
             }
         ],
         "socialLinks": [
