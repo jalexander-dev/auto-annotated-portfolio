@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "nitiating small renovations or painting your home can be exciting, but choosing the right colours, products and house painters can be a task. All the while, you also have to ensure the home interior painting job is executed on time. This is where we come in, our aim is to provide you a supervised painting experience, so that you can see your vision come to life.\_From a personalized colour consultation to providing a dust-free home painting experience, our team of trained\_wall painters is committed to catering to your specific needs. The entire home painting process is guided by a painting supervisor, who takes care of your home, so that you can stay care-free for years to come."
+    title: ''
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
