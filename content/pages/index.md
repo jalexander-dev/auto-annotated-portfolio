@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: Bryain's House of Many Colors
+    subtitle: We Look Forward to Serving You
     styles:
       self:
         height: auto
@@ -47,6 +42,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      Interior Wall PaintingOur-Services-Exterior-Wall-PaintingExterior Wall
+      PaintingOur-Services-Waterproofing-ServicesWaterproofing
+      ServicesOur-Services-Wood-SolutionsWood
+      Solutionsdesktopsps-missed-call-componentTo paint your home, please give
+      us a call at To paint your home, please give us a call at 1-919-200-2452
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +85,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
