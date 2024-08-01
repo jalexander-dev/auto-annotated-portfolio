@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Bryain's House of Many Colors
-    subtitle: ''
+    subtitle: We Look Forward to Serving You
     styles:
       self:
         height: auto
