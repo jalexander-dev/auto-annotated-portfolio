@@ -14,12 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Bryain's House of Many Colors
-    subtitle: >-
-      Interior Wall PaintingOur-Services-Exterior-Wall-PaintingExterior Wall
-      PaintingOur-Services-Waterproofing-ServicesWaterproofing
-      ServicesOur-Services-Wood-SolutionsWood
-      Solutionsdesktopsps-missed-call-componentTo paint your home, please give
-      us a call at To paint your home, please give us a call at 1-919-200-2452
+    subtitle: ''
     styles:
       self:
         height: auto
