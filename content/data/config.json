@@ -21,7 +21,8 @@
             {
                 "type": "Link",
                 "label": "What my Customer Think",
-                "url": "/blog"
+                "url": "/blog",
+                "showIcon": true
             }
         ],
         "socialLinks": [
